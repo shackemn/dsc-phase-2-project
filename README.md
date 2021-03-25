@@ -66,7 +66,9 @@ We separated our data into train and test at 75%.
 Our original model had an R-Squared value of 0.727, but it had a lof of features with P Values past the threshold of .05
 
 We removed these problem features and ran the model again. This gave us an R-Squared of 0.678
+
 Train RMSE = 207649.69
+
 Test RMSE = 214703.66
 
 ## Next Steps
