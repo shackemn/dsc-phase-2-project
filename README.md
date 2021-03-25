@@ -47,7 +47,8 @@ to explore their linear relationship to price. We also looked at multicolinearit
 
 Something noteworthy found was the mean sales price of waterfront homes was over three times greater than the average mean price of other homes. This can be observed in the visualization below.
 
-![Location](images/Price by Location.png)
+![Price by Location.png](https://github.com/shackemn/dsc-phase-2-project/blob/main/Price%20by%20Location.png)
+
 
 
 
