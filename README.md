@@ -74,6 +74,7 @@ Something noteworthy found was the mean sales price of waterfront homes was over
 ### Feature Engineering
 
 Categorical: We seprated our categorical features into dummy variables, dropping the first of each.
+
 Continuous: We log transformed some of our features to create a more normal ditribution. 
 
 ## Model
@@ -91,5 +92,6 @@ Test RMSE = 214703.66
 ## Next Steps
 
 Improve our model with more up-to-date data.
+
 We had very little data on renovations. Explore how these renoavations affect our price. 
 
